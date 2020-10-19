@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url(../img/img1.jpg);
+  background-size: cover;
+}
+
+.text{
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+hr{
+  border-style: dotted;
+  color: coral;
+}
+
+h1{
+  font-family: 'Sansita Swashed', cursive;
+}
